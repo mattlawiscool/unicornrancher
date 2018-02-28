@@ -1,0 +1,26 @@
+.unicorns {
+	width: 200px;
+	height: 200px;
+	margin: 5px;
+	background-color: aqua;
+}
+
+.uni-con {
+	justify-content: center;
+	display: flex;
+	flex-wrap: wrap;
+	width: 768px;
+	margin: 0 auto;
+}
+
+.trails{
+	background-color: black;
+}
+
+.barn {
+	background-color: brown;
+}
+
+.pasture {
+	background-color: chartreuse;
+}
